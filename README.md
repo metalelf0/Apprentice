@@ -4,17 +4,9 @@ Apprentice is a dark, low-contrast colorscheme for Vim based on the awesome [Sor
 
 It is essentially a streamlined version of the original, with a reduced number of colors entirely taken from the default xterm palette to ensure a similar look in 256colors-ready terminal emulators and GUI Vim.
 
-Some code in MacVim:
+This version is a little darker and more contrasted than the original by @romainl:
 
-![image](http://romainl.github.io/Apprentice/images/0macvim.png)
-
-Some code in iTerm, with `TERM=xterm-256color`:
-
-![image](http://romainl.github.io/Apprentice/images/0256term.png)
-
-Some code in iTerm, with `TERM=xterm`, using the Tango color palette:
-
-![image](http://romainl.github.io/Apprentice/images/08termtango.png)
+![image](resources/before-and-after.jpg)
 
 ## Preparing your environment.
 
